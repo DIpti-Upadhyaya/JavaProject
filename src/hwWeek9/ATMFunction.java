@@ -1,7 +1,7 @@
 package hwWeek9;
 
 import java.util.Scanner;
-
+//Adding comments
 public class ATMFunction {
     public static void atmFunctions() {
         double balance = 2500.00;
